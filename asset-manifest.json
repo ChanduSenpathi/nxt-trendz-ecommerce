@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChanduSenpathi/nxt-trendz-ecommerce.git/static/css/main.9bb27a08.css",
+    "main.js": "/ChanduSenpathi/nxt-trendz-ecommerce.git/static/js/main.89827d9a.js",
+    "static/js/453.4f56d160.chunk.js": "/ChanduSenpathi/nxt-trendz-ecommerce.git/static/js/453.4f56d160.chunk.js",
+    "index.html": "/ChanduSenpathi/nxt-trendz-ecommerce.git/index.html",
+    "main.9bb27a08.css.map": "/ChanduSenpathi/nxt-trendz-ecommerce.git/static/css/main.9bb27a08.css.map",
+    "main.89827d9a.js.map": "/ChanduSenpathi/nxt-trendz-ecommerce.git/static/js/main.89827d9a.js.map",
+    "453.4f56d160.chunk.js.map": "/ChanduSenpathi/nxt-trendz-ecommerce.git/static/js/453.4f56d160.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bb27a08.css",
+    "static/js/main.89827d9a.js"
+  ]
+}
